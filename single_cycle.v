@@ -89,7 +89,7 @@ module single_cycle (fastclk, reset, switch_select, switch_run, cathode, an, led
 	ssd_driver	ssdhun (.in_bcd(hun), .out_ssd(hunssd));
 	ssd_driver	ssdten (.in_bcd(ten), .out_ssd(tenssd));
 	ssd_driver	ssdone (.in_bcd(one), .out_ssd(onessd));
-	choose_cathode_cathode choose_cathode (.tho(thossd), .hun(hunssd), .ten(tenssd), .one(onessd), .an(an), .ca(cathode));
+	choose_cathode choose_cathode1 (.tho(thossd), .hun(hunssd), .ten(tenssd), .one(onessd), .an(an), .ca(cathode));
 
 	assign clkrf = clkrf_reg;
 	assign clk = clk_reg;
