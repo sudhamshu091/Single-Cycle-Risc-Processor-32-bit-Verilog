@@ -8,3 +8,6 @@ Trying to implement a single cycle MIPS computer in Verilog that supports MIPS a
 Below image is the Risc processor I am trying to impleent, But end product may not be exactly the same.<br>
 [img_src: Click Here<br>](https://www.eg.bucknell.edu/~csci320/2014-fall/#!single.md)
 ![](single_cycle.png)
+
+[Waveform](single_cycle.jpg)
+![](single_cycle.jpg)
