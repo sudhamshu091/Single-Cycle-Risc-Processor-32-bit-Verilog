@@ -1,4 +1,4 @@
-module choose_cathode(tho, hun, ten, one, an, ca);
+module choose_cathode(tho, hun, ten, one, an, ca );
 	input	[6:0]tho;
 	input	[6:0]hun;
 	input	[6:0]ten;
