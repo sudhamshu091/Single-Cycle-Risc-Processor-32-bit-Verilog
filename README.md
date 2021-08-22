@@ -11,3 +11,6 @@ Below image is the Risc processor I am trying to impleent, But end product may n
 
 [Waveform](single_cycle.jpg)
 ![](single_cycle.jpg)
+
+RTL
+![](single_cycle_rtl.pdf)
