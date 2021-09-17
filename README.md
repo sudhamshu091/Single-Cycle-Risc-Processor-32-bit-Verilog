@@ -9,8 +9,5 @@ Below image is the Risc processor I am trying to impleent, But end product may n
 [img_src: Click Here<br>](https://www.eg.bucknell.edu/~csci320/2014-fall/#!single.md)
 ![](single_cycle.png)
 
-[Waveform](single_cycle.jpg)
-![](single_cycle.jpg)
-
 [RTL](single_cycle_rtl.jpg)
 ![](single_cycle_rtl.jpg)
